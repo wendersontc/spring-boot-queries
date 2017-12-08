@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "project.cors.url",
+    "type": "java.lang.String",
+    "description": "A description for 'project.cors.url'"
+  },
+  {
+    "name": "project.cors.url",
+    "type": "java.lang.String",
+    "description": "A description for 'project.cors.url'"
+  }
+]}
